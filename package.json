@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@mdi/font": "^7.4.47",
+    "canvas-confetti": "^1.9.3",
     "core-js": "^3.8.3",
     "vue": "^3.2.13",
     "vuetify": "^3.7.4"
@@ -16,6 +17,7 @@
   "devDependencies": {
     "@babel/core": "^7.12.16",
     "@babel/eslint-parser": "^7.12.16",
+    "@types/canvas-confetti": "^1.6.4",
     "@typescript-eslint/eslint-plugin": "^5.4.0",
     "@typescript-eslint/parser": "^5.4.0",
     "@vue/cli-plugin-babel": "~5.0.0",
